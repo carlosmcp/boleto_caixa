@@ -1,0 +1,15 @@
+{
+  "name": "validador_boleto_caixa",
+  "version": "1.0.0",
+  "description": "validador do \"nosso número\" da caixa",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Carlos Brito",
+  "license": "ISC",
+  "devDependencies": {
+    "expect.js": "^0.3.1",
+    "mocha": "^5.0.1"
+  }
+}
