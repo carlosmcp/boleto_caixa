@@ -2,7 +2,7 @@
  * Unit teste of Util file
  *
  *@author Carlos Brito
- *@since 09/02/201
+ *@since 09/02/2018
  */
 
 var validator = require("../lib/util");
